@@ -24,4 +24,4 @@ Certifique-se de ter o Python instalado. Clone este repositório ou baixe os arq
 ### 2. Instale as dependências
 Abra o terminal na pasta do projeto e execute:
 ```bash
-pip install -r requirements.txt
+py -m pip install -r requirements.txt
