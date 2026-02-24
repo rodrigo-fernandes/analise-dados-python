@@ -25,3 +25,4 @@ Certifique-se de ter o Python instalado. Clone este repositório ou baixe os arq
 Abra o terminal na pasta do projeto e execute:
 ```bash
 py -m pip install -r requirements.txt
+py -m streamlit run app.py --server.headless true
